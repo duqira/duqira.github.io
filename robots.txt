@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://duqira.github.io/sitemap/sitemap.xml
