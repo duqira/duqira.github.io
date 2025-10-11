@@ -3,6 +3,7 @@ https://duqira.github.io/creality-space-pi-filament-dryer-plus-review-2024
 https://duqira.github.io/anycubic-kobra-3-v2-combo-3d-printer-review-2024
 https://duqira.github.io/makerbase-vesc-84200hp-84v-200a-review-high-current-controller
 https://duqira.github.io/creality-space-pi-filament-dryer-box-review-2024
+https://duqira.github.io/anycubic-photon-mono-m5s-pro-14k-3d-printer-review
 https://duqira.github.io/flashforge-adventurer-5m-3d-printer-review-600mm-speed
 https://duqira.github.io/anycubic-kobra-2-max-3d-printer-review-large-format
 https://duqira.github.io/creality-ender-3-v3-se-3d-printer-review-2024
@@ -36,6 +37,8 @@ https://duqira.github.io/anycubic-photon-mono-m7-max-3d-printer-review-2025
 https://duqira.github.io/anycubic-photon-mono-4-ae-10k-lcd-resin-3d-printer-review
 https://duqira.github.io/anycubic-photon-mono-4-ultra-lcd-3d-printer-review
 https://duqira.github.io/bambu-lab-ppa-cf-filament-review-engineering-3d-printing
+https://duqira.github.io/specify-color-10kg-pla-filament-review-3d-printer-filament-bulk-pack
+https://duqira.github.io/anycubic-abs-like-pro-2-resin-review-3d-printing
 https://duqira.github.io/anycubic-pla-filament-review-10kg-bulk-3d-printing
 https://duqira.github.io/anycubic-water-wash-resin-3kg-review-high-precision-3d-printing
 https://duqira.github.io/creality-cr-scan-raptor-3d-scanner-review
@@ -48,6 +51,7 @@ https://duqira.github.io/creality-nebula-smart-kit-review-ender-3-upgrade
 https://duqira.github.io/creality-space-pi-x4-filament-dryer-review-2025
 https://duqira.github.io/sunlu-3d-printer-filament-review-pla-petg-wood-silk-rainbow
 https://duqira.github.io/anycubic-photon-mono-x-6k-m3-plus-lcd-screen-replacement-review
+https://duqira.github.io/kingroon-silk-tri-color-pla-filament-review-2025
 https://duqira.github.io/revopoint-metrox-3d-scanner-review-professional-cad-design
 https://duqira.github.io/sunlu-10kg-standard-water-wash-abs-like-3d-printer-resin-review
 https://duqira.github.io/twotrees-laser-engraver-cnc-router-tts10-pro-tts55-pro-review-2025
@@ -76,4 +80,5 @@ https://duqira.github.io/anycubic-photon-m3-max-3d-printer-exposure-screen-revie
 https://duqira.github.io/anycubic-wash-cure-3-plus-ae-version-review-2025
 https://duqira.github.io/flashforge-adventurer-5m-pro-3d-printer-review-high-speed
 https://duqira.github.io/jayo-pla-plus-filament-review-3d-printing
+https://duqira.github.io/sovol-sv06-ace-600mm-high-speed-3d-printer-review
 https://duqira.github.io/flashforge-ad5m-pro-3d-printer-review-high-speed-printing
